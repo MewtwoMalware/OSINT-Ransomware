@@ -7,3 +7,4 @@
 |[Ransomware: from REvil to Black Basta, what do we know about Tramp?](https://www.computerweekly.com/news/366619691/Ransomware-from-REvil-to-Black-Basta-what-do-we-know-about-Tramp?)|June 2024|Oleg Nefedov History|
 |[Black Basta: The revelations about the head of the ransomware group](https://dcso.de/en/black-basta-die-enthuellungen-zum-kopf-der-ransomware-gruppierung/?)|02 Mar 2025|Nefedov/Tramp identification|
 |[Black Basta's rapid collapse](https://blog.barracuda.com/2025/03/07/black-basta-s-rapid-collapse?)|11 Feb 2025|Black Basta internal chat leaks and the group's apparent collapse|
+|[Analysis of Black Basta Ransomware Chat Leaks](https://www.trellix.com/blogs/research/analysis-of-black-basta-ransomware-chat-leaks/?)|18 Mar 2025|Strong technical analysis of the leaked communications|
